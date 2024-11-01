@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Dexter]
 
 > Web3 Full-Stack Developer | Telegram Mini Apps Specialist | Crypto Wallet Developer
 
@@ -69,10 +69,9 @@ Passionate full-stack developer specializing in Telegram Mini Apps and Web3 wall
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐦 Twitter: [@YourTwitter]
-- 📧 Email: your.email@example.com
-- 📱 Telegram: @YourTelegram
+- 🐦 Twitter: [@0x4Coder]
+- 📧 Email: coder0xh@gmail.com
+- 📱 Telegram: @Coder0xh
 
 ---
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [Coder0xH](https://github.com/Coder0xH)
