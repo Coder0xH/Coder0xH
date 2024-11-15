@@ -4,13 +4,14 @@
 
 ## 🚀 About Me
 
-Passionate full-stack developer specializing in Telegram Mini Apps and Web3 wallet integration. I bridge the gap between traditional messaging platforms and blockchain technology, creating seamless crypto experiences for users.
+Passionate full-stack developer specializing  Web3 APP integration. I bridge the gap between traditional messaging platforms and blockchain technology, creating seamless crypto experiences for users.
 
 ## 💻 Tech Stack
 
 ### Blockchain & Web3
 - Solidity
 - Web3.js / Ethers.js
+- Rust - Solana
 - Wallet Connect
 - ERC Standards
 - Multiple Chain Integration
@@ -25,12 +26,13 @@ Passionate full-stack developer specializing in Telegram Mini Apps and Web3 wall
 ### Frontend
 - React.js
 - Next.js
+- Three.js
 - TailwindCSS
-- Material-UI
 - Responsive Design
 
 ### Backend
-- Java
+- Java 21
+- Spring boot
 - RESTful APIs
 - WebSocket
 - Microservices
@@ -58,7 +60,7 @@ Passionate full-stack developer specializing in Telegram Mini Apps and Web3 wall
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=coder0xh&show_icons=true&theme=dark)
 
 ## 🛠️ Current Focus
 
