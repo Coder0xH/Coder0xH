@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Dexter]
 
-> Web3 Full-Stack Developer | Telegram Mini Apps Specialist | Crypto Wallet Developer
+> Web3 Full-Stack Developer | Telegram Mini Apps Specialist | Crypto Wallet Developer | Solana & Solidity Smart Contract Expert
 
 ## 🚀 About Me
 
