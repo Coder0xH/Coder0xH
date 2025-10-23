@@ -1,20 +1,35 @@
 # 👋 Hi, I'm [Dexter]
 
-> Web3 Full-Stack Developer | Telegram Mini Apps Specialist | Crypto Wallet Developer | Solana & Solidity Smart Contract Expert
+> Web3 Full-Stack Developer
+> Web3 全栈开发人员
 
 ## 🚀 About Me
 
-Passionate full-stack developer specializing  Web3 APP integration. I bridge the gap between traditional messaging platforms and blockchain technology, creating seamless crypto experiences for users.
+Passionate full-stack developer specializing  Web3 APP integration. 
+热情的全栈开发人员，专注于 Web3 应用程序的集成.
 
 ## 💻 Tech Stack
+
+### Lang&Framework
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,fastapi,py,rust,java,go)](https://skillicons.dev)
+
+### Operating System
+[![My Skills](https://skillicons.dev/icons?i=apple,linux)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,git,npm,vite)](https://skillicons.dev)
+
+### Services
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,cloudflare,netlify,vercel)](https://skillicons.dev)
+
+### Platform
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,github,gmail,stackoverflow,twitter)](https://skillicons.dev)
 
 ### Blockchain & Web3
 - Solidity
 - Web3.js / Ethers.js
 - Rust - Solana
 - Wallet Connect
-- ERC Standards
-- Multiple Chain Integration
 
 ### Telegram Development
 - Telegram Bot API
@@ -23,27 +38,7 @@ Passionate full-stack developer specializing  Web3 APP integration. I bridge the
 - Bot Father Integration
 - Telegram Payments
 
-### Frontend
-- React.js
-- Next.js
-- Three.js
-- TailwindCSS
-- Responsive Design
-
-### Backend
-- Java 21
-- Spring boot
-- RESTful APIs
-- WebSocket
-- Microservices
-
 ## 🎯 Featured Projects
-
-### Crypto Wallet Integration
-- 📱 Developed multi-chain crypto wallet with seamless Telegram integration
-- 💳 Implemented secure transaction signing and key management
-- 🔄 Built cross-chain token swap functionality
-- 🔒 Enhanced security features including biometric authentication
 
 ### Telegram Mini Apps
 - 🤖 Created high-performance Telegram mini applications
@@ -51,23 +46,10 @@ Passionate full-stack developer specializing  Web3 APP integration. I bridge the
 - 📊 Built real-time crypto price tracking dashboard
 - 🔗 Developed wallet connection interface for Telegram
 
-## 🌟 Achievements
-
-- 🚀 Successfully launched multiple Telegram Mini Apps with 10k+ active users
-- 💰 Processed $1M+ in crypto transactions through wallet integrations
-- 🔍 Contributed to open-source Web3 projects
-- 🏆 Recognized for innovative Telegram Bot implementations
-
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=coder0xh&show_icons=true&theme=dark)
 
-## 🛠️ Current Focus
-
-- Exploring Telegram Mini Apps 2.0 features
-- Developing cross-platform wallet solutions
-- Implementing advanced security measures for crypto transactions
-- Building DeFi integrations for Telegram
 
 ## 🤝 Connect With Me
 
