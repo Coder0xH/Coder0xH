@@ -48,7 +48,7 @@ Passionate full-stack developer specializing  Web3 APP integration.
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=coder0xh&show_icons=true&theme=dark)
+![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=coder0xh&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=coder0xh&show_icons=true))
 
 
 ## 🤝 Connect With Me
