@@ -46,6 +46,25 @@ Passionate full-stack developer specializing  Web3 APP integration.
 - 📊 Built real-time crypto price tracking dashboard
 - 🔗 Developed wallet connection interface for Telegram
 
+### Web3 Exchange
+- Trading Competition
+- Refferal
+- Spot
+- Futures
+
+### Quantitative trading
+- AI trading
+- Spot Futures fuding
+- Spread arbitrage
+
+### Java spring boot cloud
+- Real-time game
+- Scaffolding development
+
+### Dapp
+- GameFI
+- Invitation Reward
+
 ## 📈 GitHub Stats
 
 # 📊 GitHub Stats:
